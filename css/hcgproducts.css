@@ -1,0 +1,177 @@
+
+#nutfacts {
+  position: relative;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:left;
+  line-height:normal;
+}
+
+#nutfacts.us-baby-food, 
+#nutfacts.us-baby-food-prepared {
+	width:182px;
+}
+
+#nutfacts.us-normal, 
+#nutfacts.us-prepared {
+  width:246px;
+}
+
+#nutfacts.us-baby-food table table, 
+#nutfacts.us-baby-food-prepared table table {
+  margin:1px; 
+  width:180px;
+}
+
+#nutfacts.us-normal table table, 
+#nutfacts.us-prepared table table {
+  margin:1px; 
+  width:244px;
+}
+
+#nutfacts table td { 
+  padding:0;
+}
+#nutfacts .Nutrition {
+  font-size:11px;
+}
+#nutfacts .Nutritionblend {
+  font-size:11px;
+  padding-left:7px
+}
+#nutfacts .Nutrition p {
+  font-size:10px;
+}
+#nutfacts .NutritionHd {
+  font-size:22px;
+}
+#nutfacts .NutritionSm {
+  font-size:9px;
+}
+#nutfacts .Nutrition .center {
+  text-align:center;
+}
+#nutfacts .Nutrition .right {
+  text-align:right;
+  float:none;
+}
+#nutfacts .NutritionSm .right {
+  text-align:right;
+  float:none;
+}
+#nutfacts .line {
+  line-height:0;
+  padding:0 0 2px 0;
+}
+#nutfacts .wideline {
+  line-height:0;
+  padding:3px 0 2px 0;
+}
+
+
+/* new CSS */
+
+
+#nutfacts {
+  width: 246px;
+  font: normal 11px/15px Arial, sans-serif;
+}
+
+#nutfacts-wrap {
+  padding: 2px 5px;
+  border: 1px solid #000;
+  background: #fff;
+}
+
+#nutfacts-wrap table {
+  margin-bottom: 0;
+}
+
+#nutfacts td div,
+#nutfacts .diet td {
+  padding: 2px 0;
+}
+
+#nutfacts table.vt td {
+  white-space: nowrap;
+}
+
+#nutfacts .diet td.in {
+  padding-left: 10px;
+}
+
+#nutfacts .b8 div {
+  border-top: 8px solid #000;
+}
+
+#nutfacts .b1 div,
+#nutfacts .diet td.b1 {
+  border-top: 1px solid #000;
+}
+
+#nutfacts .b4 div {
+  border-top: 4px solid #000;
+}
+
+#nutfacts .in div {
+  margin-left: 10px;
+}
+
+#nutfacts .rt {
+  text-align: right;
+}
+
+#nutfacts .ct {
+  padding-left: 6px;
+  padding-right: 6px;
+  text-align: center;
+}
+
+#nutfacts .sm {
+  font-size: 9px;
+}
+
+#nutfacts .header p {
+  margin: 0;
+  padding: 0;
+}
+
+#nutfacts .header h1 {
+  margin: 0;
+  padding: 3px 0;
+  font-size: 18px;
+}
+
+#nutfacts .disclaimer {
+  font-size: 10px;
+  line-height: 13px;
+}
+
+#nutfacts hr {
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-top: 1px solid #000;
+  height: 0;
+  background: none;
+}
+
+
+
+#nutfacts td {
+  padding: 0 !important;
+}
+
+#nutfacts-wrap table {
+  font: normal 11px/15px Arial, sans-serif;
+  line-height: normal;
+  border-width: 0;
+  width: 97%;
+}
+
+
+#nutfacts table,
+#nutfacts tr,
+#nutfacts td {
+  border: 1px solid #F00;
+  border: 0;
+}
